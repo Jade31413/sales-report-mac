@@ -2,3 +2,5 @@
 Daily sales analysis
 
 ## Usage
+ADD README BADGE
+HEYYYYY
